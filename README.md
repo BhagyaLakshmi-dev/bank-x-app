@@ -6,7 +6,7 @@ Banking Application REST API using Spring Boot and Spring Data JPA
 
 ## Description:
 - Developed a REST API to create bank account and perform all banking operations
-- Integrated data and performed CRUD operations using Spring Data JPA; stored data in embedded Apache Derby Database.
+- Integrated data and performed CRUD operations using Spring Data JPA; stored data in local Database.
 
 ## Instructions:
 - You can use URI's to construct API requests using an app like Postman.
